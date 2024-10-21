@@ -23,7 +23,7 @@ A Bash script to perform various network-related queries on a given IP address o
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/ip-dns-scanner.git
+git clone https://github.com/cyber272/IP_DNS_Scanner.git
     cd ip-dns-scanner
     ```
 
@@ -52,8 +52,7 @@ A Bash script to perform various network-related queries on a given IP address o
     ```
    
 ## Sample Output
-
-img
+<img width="1437" alt="Screenshot 2024-10-21 at 14 55 37" src="https://github.com/user-attachments/assets/fadfa432-5550-4e9c-bb6f-a7780236631d">
 
 ## Error Handling
 
